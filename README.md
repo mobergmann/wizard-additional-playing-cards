@@ -34,7 +34,7 @@
 
 ## Marionette | <> | weiß
 
-- Wird diese Karte gespielt, wird eine Karte vom Stapel stattdessen gespielt
+- Wird diese Karte gespielt, dann wird sie weggelegt und stattdessen wird eine Karte vom Stapel gezogen und dann gespielt.
 
 ## Schütze | 11.1 | bunt
 
