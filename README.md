@@ -22,7 +22,7 @@
 Der Stich wird am Ende nicht eingesammelt, sondern die Karten bleiben liegen und es wird eine zweite Runde auf der ersten gespielt. Der/Die Sieger:in ist die Person, die die höchste Karte im vergleich zu allen anderen hat (normale Wizard Regeln; Es wird auch der erster gegen den zweiten Stich gemessen).  
 Der Gewinner bekommt 2 Stiche
 
-## Wage | 4/11 | bunt
+## Wage(alt: Treppe) | 4/11 | bunt
 
 - Die Niedrigste Karte gewinnt
 - Bei zwei Narren gewinnt der 1. Narre
