@@ -62,5 +62,5 @@ Die höchste Karte in dem Stich wird negiert, bzw. zählt nicht. Stattdessen bek
 
 ## Schlafender Bär | <>/N | weiß
 
-- Derjenige der den Stich gewinnt gibt eine Karte an den ab der den Bär ausgespielt hat und muss eine Runde Aussetzen
+- Derjenige der den Stich gewinnt muss eine Karte auf den Stapel legen und muss eine Runde Aussetzen
 - Wird der Bär in der letzen Runde gespielt wird er zu einem Narren
