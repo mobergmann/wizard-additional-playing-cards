@@ -38,7 +38,7 @@
 
 ## Schütze | 11.1 | bunt
 
-- Die höchste Karte wird negiert
+Die höchste Karte in dem Stich wird negiert, bzw. zählt nicht. Stattdessen bekommt die Person den Stich, die die zweithöchste Karte gespielt hat.
 
 ## Einarmiger Bandit | 7.77 | bunt
 
