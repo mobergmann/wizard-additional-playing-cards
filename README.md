@@ -15,7 +15,7 @@
 
 ## Affe | 14 | gelb
 
-- Beim ausspielen wird die Farbkarte umgedreht
+- Beim ausspielen (kann) wird eine neue Trumpfkarte gezogen (werden). Gibt es keine Karten mehr kann dieser Effekt nicht genutzt werden.
 
 ## Nagel+Hammer | N | weiß
 
