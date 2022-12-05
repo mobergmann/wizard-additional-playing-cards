@@ -7,11 +7,11 @@
 
 ## Katapult | 14 | rot
 
-- Alle ziehen eine Karte
+- Wenn der Stich zuende ist, ziehen alle eine Karte
 
 ## Frosch | 14 | grün
 
-- Alle müssen eine Karte auf den Stapel legen
+- Wenn der Stich zuende ist, müssen alle eine Karte auf den Stapel legen
 
 ## Affe | 14 | gelb
 
