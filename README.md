@@ -1,21 +1,23 @@
 # wizard-additional-playing-cards
 
-## Tornado | 14 | blau
+## Tornado | 12.3 | blau
 
 - Nach dem Stich wird in die andere Richtung gespielt
 - Bis zum Ende der Runde
 
-## Katapult | 14 | rot
+## Katapult | 12.3 | rot
 
 - Wenn der Stich zuende ist, ziehen alle eine Karte
 
-## Frosch | 14 | grün
+## Frosch | 12.3 | grün
 
 - Wenn der Stich zuende ist, müssen alle eine Karte auf den Stapel legen
 
-## Affe | 14 | gelb
+## Affe | 12.3 | gelb
 
-- Beim ausspielen (kann) wird eine neue Trumpfkarte gezogen (werden). Gibt es keine Karten mehr kann dieser Effekt nicht genutzt werden.
+- Derjenige der den Stich gewinnt, kann eine neue Trumpfkarte ziehen. 
+- Packt die alte Trumpfkarte unter den Stapel. 
+- Gibt es keine Karten mehr kann dieser Effekt nicht genutzt werden.
 
 ## Nagel+Hammer | N | weiß
 
@@ -47,20 +49,25 @@ Die höchste Karte in dem Stich wird negiert, bzw. zählt nicht. Stattdessen bek
 
 ## Fluch | 6.66 | lila (immer die Stichfarbe)
 
-- Gewinnt man den Stich in dem der Fluch gespielt wurde, verfällt jeder Stich den man anschließend bekommen sollte
-- Man ist so lange verflucht bis man einen Stich gewinnt in dem der Heiltrank enthalten ist
-- Wird der Heiltrank gespielt erhält der verfluchte die Möglichkeit seine ausgespielte Karte nocheinmal zu ändern
-- Wenn er geheilt wurde hat er die Möglichkeit seine angesagten Stiche um 1 oder 0 zu erhöhen.
+- der der den Stich bekommt bekommt immer minus eins auf die Punktzahl
 
-## Heiltrank | 0 | weiß
+## Heiltrank | 3.14 | bunt
 
-
-- Sollte der verfluchte seinen Fluch lösen können erhält der Heiler so viele Punkte wie derjenige, der die höchste Stichzahl angesagt und diese auch erreicht hat
-
-- Sollte der verfluchte seinen Fluch lösen können erhält der Heiler seine angesagten Stiche (experimental)
-- Sollte der verfluchte seinen Fluch lösen können erhält der Heiler halb so viele Punkte wie die Anzahl der Runden (experimental)
+- der der den Stich bekommt bekommt immer plus eins auf die Punktzahl
 
 ## Schlafender Bär | <>/N | weiß
 
 - Derjenige der den Stich gewinnt muss eine Karte auf den Stapel legen und muss eine Runde Aussetzen
 - Wird der Bär in der letzen Runde gespielt wird er zu einem Narren
+
+## Spiegel | <> | weiß
+
+- kopiert die nächste gepielte Karte
+- Effekte ausgenommen: 
+  - Tornado, Katapult, Frosch, Affe
+
+## Schild/ Krieger | <> | weiß
+
+- zerstört alle Sonderkarten in dem Stich
+- gewinnt wenn eine Sonderkarte zerstört wurde 
+- verliert gegen Zauberer
