@@ -63,8 +63,6 @@ Die höchste Karte in dem Stich wird negiert, bzw. zählt nicht. Stattdessen bek
 ## Spiegel | <> | weiß
 
 - kopiert die nächste gepielte Karte
-- Effekte ausgenommen: 
-  - Tornado, Katapult, Frosch, Affe
 
 ## Schild/ Krieger | <> | weiß
 
