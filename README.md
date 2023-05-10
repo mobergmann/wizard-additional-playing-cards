@@ -15,9 +15,9 @@
 
 ## Affe | 12.3 | gelb
 
-- Derjenige der den Stich gewinnt, kann eine neue Trumpfkarte ziehen. 
-- Packt die alte Trumpfkarte unter den Stapel. 
-- Gibt es keine Karten mehr kann dieser Effekt nicht genutzt werden.
+- kann eine Karte von seinem Deck mit der Trumpkarte austauschen, wenn Sie die gleiche Farbe besitzt
+- ein Zauberer kann durch einen Narren ersetzt werden und umgekehrt.
+- besitzt dieser Spieler keine Karten mehr kann dieser Effekt nicht genutzt werden.
 
 ## Nagel+Hammer | N | weiß
 
