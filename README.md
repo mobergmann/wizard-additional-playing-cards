@@ -1,11 +1,11 @@
 # wizard-additional-playing-cards
 
-## Tornado | 12.3 | blau
+## Tornado | 12.3 | rot
 
 - Nach dem Stich wird in die andere Richtung gespielt
 - Bis zum Ende der Runde
 
-## Katapult | 12.3 | rot
+## Katapult | 12.3 | gelb
 
 - Wenn der Stich zuende ist, ziehen alle eine Karte
 
@@ -13,7 +13,7 @@
 
 - Wenn der Stich zuende ist, müssen alle eine Karte auf den Stapel legen
 
-## Affe | 12.3 | gelb
+## Affe | 12.3 | blau
 
 - kann eine Karte von seinem Deck mit der Trumpkarte austauschen, wenn Sie die gleiche Farbe besitzt
 - ein Zauberer kann durch einen Narren ersetzt werden und umgekehrt.
@@ -38,7 +38,7 @@ Der Gewinner bekommt 2 Stiche
 
 - Wird diese Karte gespielt, dann wird sie weggelegt und stattdessen wird eine Karte vom Stapel gezogen und dann gespielt.
 
-## Schütze | 11.1 | bunt
+## Schütze | 11.1 | gelb/grün
 
 Die höchste Karte in dem Stich wird negiert, bzw. zählt nicht. Stattdessen bekommt die Person den Stich, die die zweithöchste Karte gespielt hat.
 
@@ -55,17 +55,16 @@ Die höchste Karte in dem Stich wird negiert, bzw. zählt nicht. Stattdessen bek
 
 - der der den Stich bekommt bekommt immer plus eins auf die Punktzahl
 
-## Schlafender Bär | <>/N | weiß
-
+## Schlafender Bär | 1/2 | lila (immer die Stichfarbe)
 - Derjenige der den Stich gewinnt muss eine Karte auf den Stapel legen und muss eine Runde Aussetzen
 - Wird der Bär in der letzen Runde gespielt wird er zu einem Narren
 
-## Spiegel | <> | weiß
+## Spiegel | 6.9 | blau/rot
 
-- kopiert die nächste gepielte Karte
+- der Spieler der den Stich gewonnen hat und der Spieler der den Spiegel gewonnen hat ziehen sich gegenseitig eine Karte aus ihrer Hand.
 
 ## Schild/ Krieger | <> | weiß
 
-- zerstört alle Sonderkarten in dem Stich
+- zerstört alle Sonderkarten in dem aktuellen Stich
 - gewinnt wenn eine Sonderkarte zerstört wurde 
 - verliert gegen Zauberer
